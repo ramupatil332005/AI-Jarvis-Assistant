@@ -3,6 +3,9 @@
 Jarvis is a Python desktop assistant with a graphical interface, typed and
 voice commands, music and website search, and a local conversation history.
 
+For a project walkthrough and viva preparation, see the
+[Jarvis Viva and Project Study Guide](docs/JARVIS_VIVA_GUIDE.md).
+
 ## Features
 
 - Open popular sites or any HTTP(S) domain from a quick shortcut or command.
